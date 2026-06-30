@@ -196,7 +196,7 @@ The dashboard was designed with a Starbucks-inspired theme featuring:
 
 ## Main Dashboard
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 # 📁 Project Structure
 
