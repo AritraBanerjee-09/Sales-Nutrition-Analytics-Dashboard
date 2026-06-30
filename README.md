@@ -94,7 +94,7 @@ All visuals update dynamically based on user selections.
 ## 📈 Average Calories by Beverage Category
 
 <p align="center">
-  <img src="./Avg Cal by BevgCatg.png" alt="Average Calories" width="850"/>
+  <img src="./Avg Cal by BevgCatg.png" alt="Average Calories" width="450"/>
 </p>
 
 **Purpose**
@@ -112,7 +112,7 @@ Displays the average calorie content across beverage categories.
 ## 📊 Beverage Count by Category
 
 <p align="center">
-  <img src="./Global Presence.png" alt="Beverage Count" width="850"/>
+  <img src="./Global Presence.png" alt="Beverage Count" width="450"/>
 </p>
 
 **Purpose**
