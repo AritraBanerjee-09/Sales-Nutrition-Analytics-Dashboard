@@ -196,21 +196,11 @@ The dashboard was designed with a Starbucks-inspired theme featuring:
 
 ## Main Dashboard
 
-> *(Add your dashboard screenshot here)*
+<h2>📷 Dashboard Preview</h2>
 
-Example:
-
-```
-Dashboard.png
-```
-
-or
-
-```md
-![Dashboard](images/dashboard.png)
-```
-
----
+<p align="center">
+  <img src="Images/Dashboard.png" alt="Starbucks Dashboard" width="1000">
+</p>
 
 # 📁 Project Structure
 
