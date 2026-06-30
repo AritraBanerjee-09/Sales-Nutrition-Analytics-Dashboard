@@ -199,7 +199,7 @@ The dashboard was designed with a Starbucks-inspired theme featuring:
 <h2>📷 Dashboard Preview</h2>
 
 <p align="center">
-  <img src="Dashboard.png" alt="Starbucks Dashboard" width="1000">
+  <img src="Images/Dashboard.png" alt="Starbucks Dashboard" width="1000">
 </p>
 
 # 📁 Project Structure
