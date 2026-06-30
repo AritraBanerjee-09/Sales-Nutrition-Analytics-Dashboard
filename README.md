@@ -130,7 +130,7 @@ Shows the number of beverages available in each category.
 ## 🍩 Beverage Category Distribution
 
 <p align="center">
-  <img src="./Beverage Catg.png" alt="Beverage Category" width="850"/>
+  <img src="./Beverage Catg.png" alt="Beverage Category" width="450"/>
 </p>
 
 **Purpose**
@@ -142,7 +142,7 @@ Illustrates the percentage distribution of beverage categories.
 ## ☕ Average Caffeine by Beverage Category
 
 <p align="center">
-  <img src="./Avg Caffin by BevgCatg.png" alt="Average Caffeine" width="850"/>
+  <img src="./Avg Caffin by BevgCatg.png" alt="Average Caffeine" width="450"/>
 </p>
 
 **Purpose**
@@ -154,7 +154,7 @@ Ranks beverage categories based on average caffeine content.
 ## 🔥 Top 5 Highest Caffeine Beverages
 
 <p align="center">
-  <img src="./Highest Caffine Bevg.png" alt="Top 5 Highest Caffeine" width="850"/>
+  <img src="./Highest Caffine Bevg.png" alt="Top 5 Highest Caffeine" width="550"/>
 </p>
 
 **Purpose**
