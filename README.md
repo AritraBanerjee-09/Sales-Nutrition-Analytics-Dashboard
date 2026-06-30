@@ -196,7 +196,10 @@ The dashboard was designed with a Starbucks-inspired theme featuring:
 
 ## Main Dashboard
 
-![Dashboard]([Dashboard.png](https://github.com/AritraBanerjee-09/Sales-Nutrition-Analytics-Dashboard/blob/560027cae1fe487572c7abc53ae14fe7c96f9da5/Dashboard.png))
+<p align="center">
+  <img src="./Dashboard.png" alt="Dashboard" width="1000"/>
+</p>
+
 
 # 📁 Project Structure
 
